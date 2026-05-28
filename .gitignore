@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Large Model files (best to keep these local)
+*.pt
+*.h5
+
+# OS specific files
+.DS_Store
+Thumbs.db
